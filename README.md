@@ -1,33 +1,104 @@
 <div align="center">
   <img src="./assets/banner.png" width="100%" />
+</div>
+
+
+<h3 align="center">✦ Sobre mim ✦</h3>
+
+<p align="center">
+  Olá! Sou <strong>Eduarda Ricardo</strong>, estudante de
+  <strong>Sistemas para Internet</strong> e desenvolvedora
+  <strong>Full Stack</strong> em constante evolução.
+</p>
+
+<p align="center">
+  Sou apaixonada por tecnologia e desenvolvimento de software,
+  atuando na criação de soluções web que unem funcionalidade,
+  criatividade e uma boa experiência para o usuário.
+</p>
+
+<p align="center">
+  Tenho conhecimentos em desenvolvimento
+  <strong>Front-end e Back-end</strong>, trabalhando com tecnologias
+  como JavaScript, TypeScript, React, Node.js, Python, HTML e CSS.
+</p>
+
+<p align="center">
+  Estou sempre buscando novos desafios para aprimorar minhas
+  habilidades e transformar ideias em projetos reais.
+</p>
+
+<p align="center">
+  <strong>🚀 Disponível para projetos freelance, oportunidades profissionais e parcerias.</strong>
+</p>
+
+<br/>
+
+<hr/>
+
+<h3 align="center">✦ Projeto em destaque ✦</h3>
+
+<div align="center">
+
+  <h3>🌐 CidaLink</h3>
+
+  <p>
+    Plataforma web desenvolvida para aproximar cidadãos e administração pública,
+    permitindo registrar ocorrências urbanas e acompanhar suas atualizações.
+  </p>
+
+  <p>
+    O projeto conta com autenticação de usuários, publicação de ocorrências,
+    notificações, painel administrativo, acessibilidade e tradução de conteúdo.
+  </p>
+
+  <p>
+    <strong>💻 Tecnologias utilizadas</strong>
+  </p>
+
+  <img src="https://img.shields.io/badge/React-080d18?style=for-the-badge&logo=react&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/Node.js-080d18?style=for-the-badge&logo=node.js&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/JavaScript-080d18?style=for-the-badge&logo=javascript&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/MySQL-080d18?style=for-the-badge&logo=mysql&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/CSS3-080d18?style=for-the-badge&logo=css3&logoColor=168bff"/>
+
+  <br><br>
+
+  <a href="https://github.com/Dudinharicardo/Projeto-CidaLink">
+    <img src="https://img.shields.io/badge/Ver%20projeto-0b1b35?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
 </div>
 
-<h3 align="center">About Me</h3>
+<br/>
+
+<hr/>
+
+<h3 align="center">✦ Tecnologias ✦</h3>
 
 <p align="center">
-  Olá! Eu sou a Eduarda, estudante de <strong>Sistemas para Internet</strong> e apaixonada por tecnologia, programação e inovação. 🚀
+  <img src="https://img.shields.io/badge/HTML5-080d18?style=for-the-badge&logo=html5&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/CSS3-080d18?style=for-the-badge&logo=css3&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/JavaScript-080d18?style=for-the-badge&logo=javascript&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/TypeScript-080d18?style=for-the-badge&logo=typescript&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/Python-080d18?style=for-the-badge&logo=python&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/React-080d18?style=for-the-badge&logo=react&logoColor=168bff"/>
+  <img src="https://img.shields.io/badge/Node.js-080d18?style=for-the-badge&logo=nodedotjs&logoColor=168bff"/>
 </p>
 
-<p align="center">
-  💙 Aprendendo todos os dias &nbsp; • &nbsp; Desenvolvendo projetos &nbsp; • &nbsp; Evoluindo na área de tecnologia
-</p>
+<br/>
 
----
+<hr/>
 
-<h3 align="center">Languages and activity</h3>
+<h3 align="center">✦ Linguagens e estatísticas ✦</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>📡 Radar de linguagens</strong><br/><br/>
-      <img src="https://quickchart.io/chart?width=340&height=260&backgroundColor=rgba(0,0,0,0)&c={type:'radar',data:{labels:['HTML','TypeScript','Python','CSS','JavaScript'],datasets:[{label:'Skills',data:[80,65,55,60,70],borderColor:'%230078ff',backgroundColor:'rgba(0,120,255,0.25)',pointBackgroundColor:'%2300aaff'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%23123860'},grid:{color:'%23123860'},pointLabels:{color:'%23dceaff'},ticks:{display:false}}}}}" alt="Radar ilustrativo de tecnologias" />
-      <br/><sub>Áreas que estou estudando — gráfico ilustrativo</sub>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinharicardo&layout=compact&langs_count=5&bg_color=080d18&title_color=168bff&text_color=e6f1ff&border_color=123b68&hide_border=false" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <strong>💻 Principais linguagens</strong><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=5&bg_color=080d18&title_color=168bff&text_color=e6f1ff&border_color=123b68&hide_border=false" alt="Linguagens mais utilizadas" />
-      <br/><sub>Baseado nos repositórios públicos</sub>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dudinharicardo&show_icons=true&hide_title=true&bg_color=080d18&text_color=e6f1ff&icon_color=168bff&border_color=123b68&hide_border=false" width="100%"/>
     </td>
   </tr>
 </table>
@@ -35,30 +106,35 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&hide_title=true&bg_color=080d18&text_color=e6f1ff&icon_color=168bff&border_color=123b68&hide_border=false" height="155" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&background=080d18&ring=168bff&fire=168bff&currStreakLabel=168bff&sideLabels=e6f1ff&dates=8aa4c4&sideNums=e6f1ff&currStreakNum=e6f1ff&border=123b68" height="155" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudinharicardo&background=080d18&ring=168bff&fire=168bff&currStreakLabel=168bff&sideLabels=e6f1ff&dates=8aa4c4&sideNums=e6f1ff&currStreakNum=e6f1ff&border=123b68" width="75%"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=080d18&color=168bff&line=0875d1&point=8bd5ff&area=true&hide_border=false&border_color=123b68" alt="Gráfico de atividade do GitHub" />
-</div>
+<hr/>
 
----
+<h3 align="center">✦ Vamos nos conectar? ✦</h3>
 
-<h3 align="center">Contacts</h3>
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-080d18?style=for-the-badge&logo=github&logoColor=168bff" alt="GitHub" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-080d18?style=for-the-badge&logo=gmail&logoColor=168bff" alt="Gmail" /></a>
-  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-080d18?style=for-the-badge&logo=linkedin&logoColor=168bff" alt="LinkedIn" /></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-ricardo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-080d18?style=for-the-badge&logo=linkedin&logoColor=168bff" alt="LinkedIn"/>
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/footer.png" width="100%" />
-  <br/><br/>
-  <samp>「 Dream • Code • Build 」</samp> 💙
+  <img src="./assets/footer.png" width="100%"/>
 </div>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<p align="center">
+  <em>“I am made of dreams, courage, and all the things I have yet to become.”</em>
+</p>
+
+
