@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Dudinharicardo/Dudinharicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá, eu sou a Eduarda! 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudante de Sistemas para Internet
+
+Aprendendo, criando e compartilhando projetos.
+
+</div>
+
+---
+
+### 💻 Sobre mim
+
+Sou estudante de Sistemas para Internet e gosto de aprender programação desenvolvendo projetos.
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git&theme=dark" />
+
+</div>
+
+### 🚀 Projeto em destaque
+
+**CidaLink**
+
+Projeto acadêmico para aproximar cidadãos e administração pública por meio do registro e acompanhamento de ocorrências urbanas.
+
+### 📊 GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Dudinharicardo&show_icons=true&theme=midnight-purple&hide_border=true" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinharicardo&layout=compact&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+`Feito com 💜 por Eduarda`
+
+</div>
