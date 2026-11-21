@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="./assets/banner_github_eduarda.png" alt="Eduarda Ricardo — Code, Learn, Improve, Repeat" width="100%" />
+  <img src="./assets/banner_github_eduarda.png" width="100%" />
 
 </div>
 
@@ -59,7 +58,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/footer_github_eduarda.png" alt="Ilustração futurista azul" width="100%" />
+  <img src="./assets/footer_github_eduarda.png" width="100%" />
   <br/><br/>
   <samp>「 Dream • Code • Build 」</samp> 💙
 </div>
