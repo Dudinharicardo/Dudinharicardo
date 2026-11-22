@@ -2,37 +2,36 @@
   <img src="./assets/banner.png" width="100%" />
 </div>
 
-
 <h3 align="center">✦ Sobre mim ✦</h3>
 
 <p align="center">
   Olá! Sou <strong>Eduarda Ricardo</strong>, estudante de
   <strong>Sistemas para Internet</strong> e desenvolvedora
-  <strong>Full Stack</strong> em constante evolução.
+  <strong>Full Stack</strong>.
 </p>
 
 <p align="center">
-  Sou apaixonada por tecnologia e desenvolvimento de software,
-  atuando na criação de soluções web que unem funcionalidade,
-  criatividade e uma boa experiência para o usuário.
+  Gosto de transformar ideias em soluções digitais,
+  sempre aprendendo e explorando novas tecnologias.
 </p>
 
 <p align="center">
-  Tenho conhecimentos em desenvolvimento
-  <strong>Front-end e Back-end</strong>, trabalhando com tecnologias
-  como JavaScript, TypeScript, React, Node.js, Python, HTML e CSS.
-</p>
-
-<p align="center">
-  Estou sempre buscando novos desafios para aprimorar minhas
-  habilidades e transformar ideias em projetos reais.
-</p>
-
-<p align="center">
-  <strong>🚀 Disponível para projetos freelance, oportunidades profissionais e parcerias.</strong>
+  🚀 Em constante evolução, buscando novos desafios e oportunidades na tecnologia.
 </p>
 
 <br/>
+
+<hr/>
+
+<h3 align="center">✦ Tecnologias & Ferramentas ✦</h3>
+
+<p align="center">
+  Tecnologias e ferramentas que utilizo no desenvolvimento dos meus projetos.
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,mysql,git,github,vscode&theme=dark" />
+</div>
 
 <hr/>
 
@@ -51,7 +50,7 @@
     O projeto conta com autenticação de usuários, publicação de ocorrências,
     notificações, painel administrativo, acessibilidade e tradução de conteúdo.
   </p>
-
+  <br>
   <p>
     <strong>💻 Tecnologias utilizadas</strong>
   </p>
@@ -62,9 +61,8 @@
   <img src="https://img.shields.io/badge/MySQL-080d18?style=for-the-badge&logo=mysql&logoColor=168bff"/>
   <img src="https://img.shields.io/badge/CSS3-080d18?style=for-the-badge&logo=css3&logoColor=168bff"/>
 
-  <br><br>
-
-  <a href="https://github.com/Dudinharicardo/Projeto-CidaLink">
+  <br>
+  <a href="https://github.com/gakimr/Projeto-CidaLink">
     <img src="https://img.shields.io/badge/Ver%20projeto-0b1b35?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -72,21 +70,6 @@
 
 <br/>
 
-<hr/>
-
-<h3 align="center">✦ Tecnologias ✦</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-080d18?style=for-the-badge&logo=html5&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/CSS3-080d18?style=for-the-badge&logo=css3&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/JavaScript-080d18?style=for-the-badge&logo=javascript&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/TypeScript-080d18?style=for-the-badge&logo=typescript&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/Python-080d18?style=for-the-badge&logo=python&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/React-080d18?style=for-the-badge&logo=react&logoColor=168bff"/>
-  <img src="https://img.shields.io/badge/Node.js-080d18?style=for-the-badge&logo=nodedotjs&logoColor=168bff"/>
-</p>
-
-<br/>
 
 <hr/>
 
@@ -119,6 +102,9 @@
   <a href="https://www.linkedin.com/in/eduarda-ricardo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-080d18?style=for-the-badge&logo=linkedin&logoColor=168bff" alt="LinkedIn"/>
   </a>
+  <a href="mailto:eduarda.ricardo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-080d18?style=for-the-badge&logo=gmail&logoColor=168bff" alt="Email"/>
+  </a>
 </p>
 
 <br/>
@@ -131,10 +117,6 @@
 
 <hr/>
 
-<br/>
-
 <p align="center">
   <em>“I am made of dreams, courage, and all the things I have yet to become.”</em>
 </p>
-
-
